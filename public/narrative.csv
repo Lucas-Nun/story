@@ -1,0 +1,35 @@
+index,choice id,text,prompt,choice1_text,choice1_next,choice2_text,choice2_next,choice3_text,choice3_next,image,,,
+0,0,"Six passengers are on a StellarTransit spaceship, delivering cargo to a distant planet on a year-long journey. Just a week into the trip, the ship's alarm goes off—a deadly creature known as a Xylarian has secretly boarded. The passengers have heard the terrifying stories: Xylarians are shape-shifters that kill and perfectly mimic their victims. Worse, one of the passengers has already been replaced.
+
+The ship's alarm was triggered only after a dead body was found, meaning the Xylarian has been among them since before takeoff. The old StellarTransit  vehicle you fly on  is outdated and wouldn't help identify the imposter, and no one has ever survived an encounter with a Xylarian, so there's little reliable information on how to deal with them.
+
+It's up to you to figure out which one of them is the alien. The challenge? You didn’t know any of the crew before this journey, so you’ll have to rely on sharp observation and intuition. Spotting small inconsistencies is your only chance to uncover the truth before the Xylarian strikes again. 
+
+you walk in the room to see elias, lira and, vincent 
+what do you do you only have 1 hour to figure out who it is ",who do you talk to first?,"Question Elias immediately He was closest to the body, after all.",1,"Comfort Lira She’s emotional, and you might learn something through her grief.",2, Observe Vincent from a distance His cold detachment doesn’t sit right with you.,3,spaceship.png,,,
+1,A,"You approach Elias and ask him why he was near Orion’s body. He stammers, explaining that he was passing by and found the body already there.",what do you do,"Press harder, accusing him of being the Xylarian.",4,"Take a softer approach, asking if he noticed anything strange before Orion’s death.",5,,,image.png,,,
+2,B,"Lira’s sobs grow quieter as you sit with her. She’s devastated, but she manages to tell you that Orion had been acting strangely right before his death. He seemed distracted, almost paranoid.",what should you do,Ask if she suspects anyone.,6,Let her grieve in peace and focus on someone else.,7,,,image.png,,,
+3,C,"Vincent barely acknowledges you. He’s keeping his distance from the group, arms crossed. He’s been quiet the whole time, showing no real emotion.
+",what should you do,"Confront him, demanding to know why he’s acting so cold.",8,Keep observing from afar. You want to gather more before jumping to conclusions.,9,,,image.png,,,
+4,A1,"Elias becomes defensive, raising his voice. He insists he’s innocent, but the others grow suspicious of him. Lira, through her grief, starts to believe you might be right. Vincent still stays silent, but Leo steps forward, asking for calm.",what should you do,Insist that Elias is the Xylarian and lock him up.,10,Back off and watch for further signs.,11,,,image.png,,,
+5,A2,Elias relaxes slightly. He admits he heard strange sounds from the cargo hold earlier but was too scared to investigate. This could be useful information.,what should you do,Follow up on this lead and check the cargo hold.,12,Tell the group and stay close together for safety.,13,,,image.png,,,
+6,B1,"Lira hesitates, then says that she had noticed Vincent avoiding Orion in the last few days. She doesn’t know why, but it seemed like something was off between them.",what should you do,Confront Vincent about it.,14,Keep this information to yourself for now and watch Vincent more closely.,15,,,image.png,,,
+7,B2,"You decide not to push her too much in her state. You turn your attention back to the others, knowing you’ll need to keep investigating.
+",what should you do,Focus on observing Vincent.,16,"Speak with Leo, who has been oddly cheerful throughout this situation.",17,,,image.png,,,
+8,C1,"Vincent narrows his eyes. He tells you to back off, saying that keeping a distance doesn’t make him the Xylarian. His hostility only raises your suspicions further.
+",what should you do,"Press him harder, demanding answers.",18,Drop it and wait for a better moment to catch him off guard.,19,,,image.png,,,
+9,C2,"Vincent doesn’t react, but his behaviour still feels off. You continue to quietly watch him, hoping to catch him slipping.",what should you do,Suggest to the group that Vincent is suspicious.,20,"Confront Leo instead, thinking Vincent might be a red herring.",21,,,image.png,,,
+10,A1.1,"Elias is locked up, but the killings continue. You Lose the Xylarian wasn’t Elias. Panic sets and someone else ends up dead.",,continue,23,,,,,image.png,,,
+11,A1.2,your time is up and you compelety forgot the Xylarian will surely overpower you if you dont make a decision now ,what should you do,Elias,23,lira ,23,vincent,22,image.png,,,
+12,A2.1,"Elias is locked up, but the killings continue. You Lose the Xylarian wasn’t Elias. Panic sets and someone else ends up dead.",,continue,23,,,,,image.png,,,
+13,A2.2,your time is up and you compelety forgot the Xylarian will surely overpower you if you dont make a decision now ,what should you do,Elias,23,lira ,23,vincent,22,image.png,,,
+14,B1.1,"confronted Vincent, you were right. Vincent was the Xylarian, keeping his distance to avoid suspicion. You Win the group traps him, and he reveals his true form, but you manage to neutralize him.",,continue,22,,,,,image.png,,,
+15,B1.2,your time is up and you compelety forgot the Xylarian will surely overpower you if you dont make a decision now ,what should you do,Elias,23,lira ,23,vincent,22,image.png,,,
+16,B2.1,"confronted Vincent, you were right. Vincent was the Xylarian, keeping his distance to avoid suspicion. You Win the group traps him, and he reveals his true form, but you manage to neutralize him.",,continue,22,,,,,image.png,,,
+17,B2.2,your time is up and you compelety forgot the Xylarian will surely overpower you if you dont make a decision now,what should you do,Elias,23,lira ,23,vincent,22,image.png,,,
+18,C1.1,your time is up and you compelety forgot the Xylarian will surely overpower you if you dont make a decision now ,what should you do,Elias,23,lira ,23,vincent,22,image.png,,,
+19,C1.2,your time is up and you compelety forgot the Xylarian will surely overpower you if you dont make a decision now ,what should you do,Elias,23,lira ,23,vincent,22,image.png,,,
+20,C2.1,your time is up and you compelety forgot the Xylarian will surely overpower you if you dont make a decision now,what should you do,Elias,23,lira ,23,vincent,22,image.png,,, 
+21,C2.2,confront leo and it turns out that you were wrong you took a gamble and it was wrong,,continue,23,,,,,image.png,,,
+22,E1,"YOU WIN  You’ve outsmarted the Xylarian and saved the crew. The alien is dead, and though the journey will be long, you know you can make it to the destination safely.",,,,,,,,spaceship.png,,,
+23,E2,"YOU LOSE The Xylarian was too clever, and your deductions were too late. One by one, your crewmates fell until you were the last to die. The Xylarian wins, and no one will ever know what happened aboard this ship.",,,,,,,,loss.png,,,
