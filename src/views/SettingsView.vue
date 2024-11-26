@@ -28,8 +28,8 @@
       <h2>Text Settings</h2>
       <div class="settings-item">
         <a>Adjust Font Size:</a>
-        <button @click="adjustFontSize(false)">Decrease</button>
-        <button @click="adjustFontSize(true)">Increase</button>
+        <button @click="adjustFontSize(false)">small</button>
+        <button @click="adjustFontSize(true)">big</button>
       </div>
     </div>
   </div>
